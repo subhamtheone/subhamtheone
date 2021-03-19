@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/subham_the_one" target="blank"><img src="https://img.shields.io/twitter/follow/subham_the_one?logo=twitter&style=for-the-badge" alt="subham_the_one" /></a> </p>
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **subhamtheone@gmail.com**
 
