@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhamtheone&show_icons=true&locale=en&layout=compact" alt="subhamtheone" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamtheone&show_icons=true&locale=en" alt="subhamtheone" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=subhamtheone&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Subham's GitHub Stats">
