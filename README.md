@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamtheone&label=Profile%20views&color=0e75b6&style=flat" alt="subhamtheone" /> </p>
 
 <p align="left"> <a href="https://twitter.com/subham_the_one" target="blank"><img src="https://img.shields.io/twitter/follow/subham_the_one?logo=twitter&style=for-the-badge" alt="subham_the_one" /></a> </p>
-
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - 📫 How to reach me **subhamtheone@gmail.com**
 
 - ⚡ Fun fact **I have a good sense of humour**
