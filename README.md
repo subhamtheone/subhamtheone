@@ -4,13 +4,13 @@
 <p align="left"> <a href="https://twitter.com/subham_the_one" target="blank"><img src="https://img.shields.io/twitter/follow/subham_the_one?logo=twitter&style=for-the-badge" alt="subham_the_one" /></a> </p>
 
 - 🌱 I’m currently learning **React**
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 - 💬 Ask me about **react,html,css,javascript**
 
 - 📫 How to reach me **subhamtheone@gmail.com**
 
 - ⚡ Fun fact **I don't know.. I guess. XD**
-
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/subhamtheone"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="subhamtheone" height="30" width="40" /></a>
